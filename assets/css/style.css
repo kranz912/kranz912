@@ -1,0 +1,183 @@
+body{
+  
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-justify: inter-word;
+    
+}
+a{
+    text-decoration: none;
+    color: cornflowerblue;
+    font-style: oblique;
+    -o-transition:.75s;
+    -ms-transition:.75s;
+    -moz-transition:.75s;
+    -webkit-transition:.75s;
+    transition: .75s;
+}
+a:hover{
+    color: darkred;
+}
+
+.main-center-container{
+    height: 75%;
+    width: 99%;
+    
+    display: table;
+    position: absolute;
+    
+}
+.center-container{
+    
+}
+.content{
+
+      display: table-cell;
+      vertical-align: middle;
+}
+.profile{
+    width: 600px;
+    margin: auto;
+}
+.picture-circle{
+    border-radius: 50%;
+    display: block;
+    margin-right: 4rem;
+    float: left;
+    width: 80px;
+}
+
+
+.profile-details{
+    padding: 15px 5px 5px 5px;
+    display: block;
+}
+.profile-home{
+    border-bottom: 2px solid #e7ebee;
+    padding-bottom: 10px;
+}
+h2{
+    color: dimgray;
+    font-weight: 100;
+}
+p{
+    clear: both;
+    font-size: 1.38rem;
+    line-height: 2.0rem;
+}
+section{
+    height: 90px;   
+}
+@media screen and (max-width: 1200px){
+
+    .profile{
+        width: 80%;
+    }
+    .picture-circle{
+         padding: 10px;
+        margin: 10px;
+    }
+    .image-container{
+        width:100%;
+    }
+    .main-center-container{
+        height: 50%;
+    }
+    .profile-details{
+    padding: 0px 5px 5px 5px;
+    display: block;
+    width: 100%;
+        text-align: left;
+    }
+    section{
+    height: 120px;   
+    }
+}
+
+h1,h2{
+    margin: 0;
+}
+.nav{
+        border: none;
+}
+.nav ul{
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+
+}
+.nav li{
+    font-size: 1.20rem;
+    line-height: 1.2rem;
+    height: 40px;
+
+}
+
+.center-container{
+    width: 50%;
+    padding: 10px;
+    margin: auto;
+}
+
+.cover img{
+  width: 100%;
+    
+}
+div{
+    display: block;
+    position: relative;
+}
+figure figcaption{
+    text-align: center;
+}
+@media screen and (min-width:600px){
+     li{
+        width: 200px;
+        border-bottom: none;
+        height: 50px;
+        float: left;
+    }
+
+    .nav{
+    height: 50px;
+    border-bottom: 1px solid #e7ebee;
+    }
+    .cover{
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    }
+    body{
+        text-align: justify;
+    }
+}
+main {
+  /* start 'enter' transition */
+  /* end 'enter' transition */
+}
+main.ng-enter {
+  /* transition on enter for .5s */
+  transition: 1s;
+  /* start with opacity 0 (invisible) */
+  opacity: 0;
+}
+main.ng-enter-active {
+  /* end with opacity 1 (fade in) */
+  opacity: 1;
+}
+#video-background {
+/*  making the video fullscreen  */
+  position: fixed;
+  right: 0; 
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto; 
+  height: auto;
+  z-index: -100;
+}
