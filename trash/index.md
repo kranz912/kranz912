@@ -3,17 +3,4 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-mainpage: true
 ---
-
-
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{site.title}}</title>
-  </head>
-  <body>
-
-  </body>
-</html>
