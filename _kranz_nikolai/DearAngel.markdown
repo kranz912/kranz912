@@ -11,6 +11,8 @@ Starting to fall in love with this young lady. Will my feelings reach her?
 
 ![loveletter](https://blog.kranznikolai.com/angel.png)
 
+Sending her my first love letter. 
+
 ## Dear Angel,
 --------
 
