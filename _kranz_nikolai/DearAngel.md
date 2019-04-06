@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title:  "My long distance love letter"
 permalink: /my-long-distance-letter/
 categories: love letter angel long distance
