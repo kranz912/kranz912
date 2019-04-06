@@ -6,7 +6,7 @@ categories: love letter angel long distance
 ---
 
 
-![alt text](https://blog.kranznikolai.com/angel.png)
+![loveletter](https://blog.kranznikolai.com/angel.png)
 
 ## Dear Angel,
 --------
