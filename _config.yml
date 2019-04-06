@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Intelligence is the ability to avoid doing work, yet getting the work done.  
  - Linus Torvalds
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "kranznikolai.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: iamkranz
 github_username:  kranz912
 instagram_username: iamkranz
