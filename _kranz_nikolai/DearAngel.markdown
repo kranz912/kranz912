@@ -15,7 +15,7 @@ categories: love letter angel long distance relationships philippines united sta
 
 It's very hard for me to court you from so far away. There are days, things may seem impossible. But there are a few things I want you to know and understand.
 
-I care about you, despite the miles between us, I will never stop asking you how your day is, calling you whenever I miss you, or simply greet you to brighten your day. Your happiness means everything to me. No matter how far away I am, promise you are always on my mind.
+I care about you, despite the miles between us, I will never stop asking you how your day is, calling you whenever I miss you, or simply greet you to brighten your day in short lagi kitang kukulitin. Your happiness means everything to me. No matter how far away I am, promise you are always on my mind.
 
 I wish I could be there with you each day, on your interviews, on your way to work, I wish I could sit across from you at the dinner table, I wish I can cook for you and greet you when you get home from duty, and go out to do fun things with you every weekend (tuturuan kitang lumangoy). 
 
@@ -25,3 +25,8 @@ I only met you once, but that's enough for me to love you.
 
 I love you
 -kranz
+
+![loveletter](https://blog.kranznikolai.com/me-angel.jpg)
+
+Waking up motivated and early just to be with you. Your night is my morning, ever since I met you I have changed myself. I have changed my schedule, uninstalled my computer games, and be more health conscious.
+
