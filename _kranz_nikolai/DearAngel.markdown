@@ -76,7 +76,7 @@ Ranting is my best alibi, Calling her for no reason will result in her finding o
 ------
 ## Facebook
 ------
-Day's had passed since I met Angel, I am waiting for her friend request since then. Then I saw a comment on Rogiel's profile. It was Angel. Geez this girl might not want to add me. LOL. I took up the courage and add her. Few days later she responded to my friend request. We began exchanging voice messages and I fell in love with her. :) :)
+Day’s had passed since I met Angel, I am waiting for her friend request since then. Then I saw a comment on Rogiel’s profile. It was Angel. Geez, this girl might not want to add me. LOL. I took up the courage and add her. A few days later she responded to my friend request. We began exchanging voice messages and I fell in love with her. :) :)
 
 ------
 ## Second time
