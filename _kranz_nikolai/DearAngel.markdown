@@ -46,3 +46,37 @@ We talk about the grading system that they are using in her school. I was kinda 
 Waking up motivated and early just to be with you. Your night is my morning, ever since I met you I have changed myself. I have changed my schedule, uninstalled my computer games, and be more health conscious.
 
 
+--------
+## She received it
+----------
+![loveletter](https://blog.kranznikolai.com/angel-roses.jpg)
+After hours of talking to the shop, helping them to find them. at last she received it. :)
+She called me after and I pretend to be sleepy.
+
+--------
+## Flowershop hunt
+--------
+It was the night before valentine's that I have decided to send her flowers. It was very hard to find a legit one especially those who can deliver on feb 14, the demand for flowers was very high that day. I even tried to call her hotel but no gist. I randomly picked one from my friends recommendations and ordered blindly. 
+
+------
+## Rant
+------
+Ranting is my best alibi, Calling her for no reason will result in her finding out my true feelings for her. LOL me and my hidden agendas hahahaha
+
+------
+## Facebook
+------
+Day's had passed since I met Angel, I am waiting for her friend request since then. Then I saw a comment on Rogiel's profile. It was Angel. Geez this girl might not want to add me. LOL. I took up the courage and add her. Few days later she responded to my friend request. We began exchanging voice messages and I fell in love with her. :) :)
+
+------
+## Second time
+------
+I was back to Baguio to meet Maireen, a friend that I met in Boston. When I was in the bus, I realized that I forgot her chocolates at home. I decided to buy her chocolates at the department store. While on walking I saw a familiar person, trying to recognize her face for 20 seconds somehow my facial recognition algorithm was not working that day. It was too late when I shouted her name. Probably she didn't hear it, or perhaps it is a different person. 
+
+-----
+## Randomwalk
+-----
+
+A day after my birthday I decided to travel to my birthplace. It's been three and a half years since I left. 
+Walking around the city without a plan and letting destiny to decide, makes me think of a pseudorandomness computational problem. Best things happen when it's unplanned. After walking around and eating everything I want, I got tired and decided to sit down somewhere. There I met a two young ladies, named Angel and Rogiel.
+
