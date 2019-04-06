@@ -48,13 +48,18 @@ We talk about the grading system that they are using in her school. I was kinda 
 
 Waking up motivated and early just to be with you. Your night is my morning, ever since I met you I have changed myself. I have changed my schedule, uninstalled my computer games, and be more health conscious.
 
+-----
+## Proposal
 
+I asked her if what she felt with the flowers, she told me that she thinks that she loves me.
+I decided to tell her everything, my intentions, my feelings. If she will be my girlfriend, I will make sure she will be my last one.
+-----
 --------
 ## She received it
 ----------
 ![loveletter](https://blog.kranznikolai.com/angel-roses.jpg)
 After hours of talking to the shop, helping them to find them. at last she received it. :)
-She called me after and I pretend to be sleepy.
+She called me after and I pretend to be sleepy. Hahaha.
 
 --------
 ## Flowershop hunt
