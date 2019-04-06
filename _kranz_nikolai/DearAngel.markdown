@@ -28,7 +28,7 @@ Sending her my first love letter.
 
 It's very hard for me to court you from so far away (lalo na magkaiba ng timezone, minsan tinanong ni art kung natutulog pa ba ako hahaha). There are days, things may seem impossible. But there are a few things I want you to know and understand. (Nako english patay ka dito hahahah)
 
-I care about you, despite the miles between us, I will never stop asking you how your day is, calling you whenever I miss you, or simply greet you to brighten your day in short lagi kitang kukulitin. Your happiness means everything to me isang kilay lang takot na ako. No matter how far away I am, promise you are always on my mind.
+I care about you, despite the miles between us, I will never stop asking you how your day is, calling you whenever I miss you, or simply greet you to brighten your day in short lagi kitang kukulitin. Your happiness means everything to me isang kilay lang takot na ako. No matter how far away I am, promise you are always on my mind. (Aside from programming ha)
 
 I wish I could be there with you each day, on your interviews, on your way to work, I wish I could sit across from you at the dinner table, I wish I can cook for you and greet you when you get home from duty, and go out to do fun things with you every weekend (tuturuan kitang lumangoy). 
 
