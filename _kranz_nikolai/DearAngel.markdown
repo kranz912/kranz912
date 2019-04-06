@@ -61,7 +61,7 @@ Waking up motivated and early just to be with you. Your night is my morning, eve
 -----
 ## Proposal
 
-I asked her if what she felt with the flowers, she told me that she thinks that she loves me.
+I asked her if what she felt with the flowers, she told me that she thinks that I like her.
 I decided to tell her everything, my intentions, my feelings. If she will be my girlfriend, I will make sure she will be my last one.
 -----
 --------
