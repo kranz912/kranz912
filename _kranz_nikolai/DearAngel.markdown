@@ -26,6 +26,9 @@ I only met you once, but that's enough for me to love you.
 I love you
 -kranz
 
+--------
+
+
 ![loveletter](https://blog.kranznikolai.com/me-angel.jpg)
 
 Waking up motivated and early just to be with you. Your night is my morning, ever since I met you I have changed myself. I have changed my schedule, uninstalled my computer games, and be more health conscious.
