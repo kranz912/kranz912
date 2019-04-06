@@ -6,8 +6,9 @@ categories: love letter angel long distance
 ---
 
 ## Dear Angel,
+--------
 
- ### At the moment, we are in two separated places. Separated by millions of mountains, four oceans, and seven seas. Perhaps no math can compute how much I want to be by your side.
+ ### At the moment, we are in two separated places. Separated by millions of mountains, four ocean and seven seas. Perhaps no math can compute how much I want to be by your side.
 
 ### It's very hard for me to court you from so far away. There are days, things may seem impossible. But there are a few things I want you to know and understand.
 
