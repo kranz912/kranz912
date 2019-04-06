@@ -18,7 +18,7 @@ Sending her my first love letter.
 
  At the moment, we are in two separated places. Separated by millions of mountains, four ocean and seven seas. Perhaps no math can compute how much I want to be by your side.
 
-It's very hard for me to court you from so far away. There are days, things may seem impossible. But there are a few things I want you to know and understand.
+It's very hard for me to court you from so far away. There are days, things may seem impossible. But there are a few things I want you to know and understand. (Nako english patay ka dito hahahah)
 
 I care about you, despite the miles between us, I will never stop asking you how your day is, calling you whenever I miss you, or simply greet you to brighten your day in short lagi kitang kukulitin. Your happiness means everything to me isang kilay lang takot na ako. No matter how far away I am, promise you are always on my mind.
 
