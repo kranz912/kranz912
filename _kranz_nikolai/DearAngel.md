@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "My long distance love letter"
+permalink: /my-long-distance-letter/
+categories: love letter angel long distance
+---
+
 Dear Angel,
 
 At the moment, we are in two separated places. Separated by millions of mountains, four oceans, and seven seas. Perhaps no math can compute how much I want to be by your side.
