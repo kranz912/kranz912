@@ -77,6 +77,7 @@ I was back to Baguio to meet Maireen, a friend that I met in Boston. When I was 
 ## Randomwalk
 -----
 
-A day after my birthday I decided to travel to my birthplace. It's been three and a half years since I left. 
-Walking around the city without a plan and letting destiny to decide, makes me think of a pseudorandomness computational problem. Best things happen when it's unplanned. After walking around and eating everything I want, I got tired and decided to sit down somewhere. There I met a two young ladies, named Angel and Rogiel.
+A day after my birthday I decided to travel to my birthplace. It's been three and a half years since I left.  
+Walking around the city without a plan and letting destiny to decide, makes me think of a pseudorandomness computational problem. Best things happen when it's unplanned.  
+After walking around and eating everything I want, I got tired and decided to sit down somewhere. There I met a two young ladies, named Angel and Rogiel.
 
