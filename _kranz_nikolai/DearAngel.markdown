@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  "My long distance love letter"
+title:  "Loving her from a distance"
 permalink: /my-long-distance-letter/
 categories: love letter angel long distance relationships philippines united states
 ---
