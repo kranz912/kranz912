@@ -28,10 +28,21 @@ I love you
 
 --------
 
+-------
+## Technical conversation
+-------
+My first conversation with her mom is kinda technical. Hahaha.
+It started with Angel's spelling issues.
+We talk about the grading system that they are using in her school. I was kinda nervous at first, it feels like a technical interview from google. Thank god it ended well. :)
+
+
+
+
 ## Changing me
 --------
 
 ![loveletter](https://blog.kranznikolai.com/me-angel.jpg)
 
 Waking up motivated and early just to be with you. Your night is my morning, ever since I met you I have changed myself. I have changed my schedule, uninstalled my computer games, and be more health conscious.
+
 
